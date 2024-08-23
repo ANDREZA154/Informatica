@@ -1,2 +1,2 @@
 # Informatica
-## primeira tarefa: Apresentação
+## primeira tarefa: Apresentação pessoal softwer Canva
