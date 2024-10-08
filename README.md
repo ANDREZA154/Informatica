@@ -30,8 +30,8 @@ Em grupo, pegamos a planilha "Assistencia social em São Paulo" e elaboramos 5 p
 - Entidade por município
 - Entidade por DRADS
 - Porcentagem % da quantidade de São Paulo
-- 
-https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FANDREZA154%2FInformatica%2Frefs%2Fheads%2Fmain%2FQuantidade%2520de%2520alunos%2520estrangeiros%2520por%2520nacionalidade_2%25C2%25B0%2520Semestre%25202023.xlsx&wdOrigin=BROWSELINK
+
+
 
 ## Quarta tarefa: Paises e Bandeiras Power BI
 
