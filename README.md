@@ -42,4 +42,4 @@ Usando a planilha "Quantidade de alunos estrangeiros por nacionalidade 2 semestr
 - Escolhi 20 paises e peguei o link das bandeiras
 - Coloquei a planilha que criei so com paises e a planilha original dentro do power bi
   
-https://github.com/ANDREZA154/Informatica/blob/93510ef961c38a675a5a078641bac3a195fc9656/Trabalho%20de%20informatica%20Paises.pbix
+
