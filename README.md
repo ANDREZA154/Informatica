@@ -42,4 +42,4 @@ Usando a planilha "Quantidade de alunos estrangeiros por nacionalidade 2 semestr
 - Escolhi 20 paises e peguei o link das bandeiras
 - Coloquei a planilha que criei so com paises e a planilha original dentro do power bi
   
-
+https://fatecspgov-my.sharepoint.com/:u:/r/personal/andreza_claudino_fatec_sp_gov_br/Documents/Trabalho%20de%20informatica%20Paises.pbix?csf=1&web=1&e=feawbg
