@@ -45,10 +45,12 @@ https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubuserco
 ## Quarta tarefa: Paises e Bandeiras Power BI
 
 Usando a planilha "Quantidade de alunos estrangeiros por nacionalidade 2 semestre 2023"
--
+
 - Separei os paises na outra planilha
 - Tirei as duplicadas e coloquei em ordem alfabetica
 - Escolhi 20 paises e peguei o link das bandeiras
 - Coloquei a planilha que criei so com paises e a planilha original dentro do power bi
   
+  ![image](https://github.com/user-attachments/assets/ae914010-8a7d-4e84-a722-df23bd37539a)
+
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/andreza_claudino_fatec_sp_gov_br/Documents/Trabalho%20de%20informatica%20Paises.pbix?csf=1&web=1&e=feawbg
