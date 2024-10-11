@@ -19,6 +19,10 @@ Usando a planilha "Quantidade de alunos estrangeiros por nacionalidade 2 semestr
 - Nacionalidade por município
 - Nacionalidade com maior número
   
+  ![image](https://github.com/user-attachments/assets/efb04642-1a75-4353-9521-dd6d80916ed3)
+  ![image](https://github.com/user-attachments/assets/5eaf2366-bdde-445d-9702-44dde442f062)
+
+
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FANDREZA154%2FInformatica%2Frefs%2Fheads%2Fmain%2FQuantidade%2520de%2520alunos%2520estrangeiros%2520por%2520nacionalidade_2%25C2%25B0%2520Semestre%25202023.xlsx&wdOrigin=BROWSELINK
 
 ## Terceira tarefa: Planilha fórmulas e dados abertos (cont.se,cont.valores,divisão)
