@@ -54,3 +54,11 @@ Usando a planilha "Quantidade de alunos estrangeiros por nacionalidade 2 semestr
   ![image](https://github.com/user-attachments/assets/ae914010-8a7d-4e84-a722-df23bd37539a)
 
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/andreza_claudino_fatec_sp_gov_br/Documents/Trabalho%20de%20informatica%20Paises.pbix?csf=1&web=1&e=feawbg
+
+## Quinta tarefa: Power bi com a planilha da Terceira tarefa 
+
+Usando a planilha "Assistencia social em São Paulo" 
+
+- Perguei as cinco perguntas
+- Separei em 5 vizualizações
+- Coloquei gráficos para responder as 5 perguntas
