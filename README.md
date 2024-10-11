@@ -62,3 +62,5 @@ Usando a planilha "Assistencia social em São Paulo"
 - Perguei as cinco perguntas
 - Separei em 5 vizualizações
 - Coloquei gráficos para responder as 5 perguntas
+
+![image](https://github.com/user-attachments/assets/c7a00983-2b6f-41cd-825f-5e2fd2ccc745)
