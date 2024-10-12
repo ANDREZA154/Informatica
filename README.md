@@ -63,6 +63,6 @@ Usando a planilha "Assistencia social em São Paulo"
 - Separei em 5 vizualizações
 - Coloquei gráficos para responder as 5 perguntas
 
-![image](https://github.com/user-attachments/assets/d55624b5-bb3c-4080-ac86-90fd0b570f4a)
+![image](https://github.com/user-attachments/assets/d14c2d74-868a-4ce9-9eb5-93583e8f2938)
 
 https://app.powerbi.com/links/_3KsP4tY_H?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
