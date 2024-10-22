@@ -55,7 +55,7 @@ Usando a planilha "Quantidade de alunos estrangeiros por nacionalidade 2 semestr
 
 https://app.powerbi.com/links/7lkepFzTsp?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 
-## Quinta tarefa: Power bi com a planilha da Terceira tarefa 
+## Quinta tarefa: Power Bi com a planilha da Terceira tarefa 
 
 Usando a planilha "Assistencia social em São Paulo" 
 
@@ -66,3 +66,10 @@ Usando a planilha "Assistencia social em São Paulo"
 ![image](https://github.com/user-attachments/assets/d14c2d74-868a-4ce9-9eb5-93583e8f2938)
 
 https://app.powerbi.com/links/_3KsP4tY_H?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+
+## Sexta tarefa: Power BI fórmulas DAX e KPI 
+
+Dashboard referente ao KPI sobre o total de itens vendidos
+
+![image](https://github.com/user-attachments/assets/d5603c90-50a0-4dd1-a4dc-7640cec106bf)
+
