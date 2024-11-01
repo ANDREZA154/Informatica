@@ -71,5 +71,6 @@ https://app.powerbi.com/links/_3KsP4tY_H?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 Dashboard referente ao KPI sobre o total de itens vendidos
 
-![image](https://github.com/user-attachments/assets/d5603c90-50a0-4dd1-a4dc-7640cec106bf)
+![image](https://github.com/user-attachments/assets/6bd1182a-2e0f-4c05-b98c-9c9475683f9f)
+
 
