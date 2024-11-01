@@ -54,7 +54,6 @@ Usando a planilha "Quantidade de alunos estrangeiros por nacionalidade 2 semestr
   ![image](https://github.com/user-attachments/assets/ae914010-8a7d-4e84-a722-df23bd37539a)
 
 https://app.powerbi.com/links/7lkepFzTsp?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
-PK
 
 ## Quinta tarefa: Power Bi com a planilha da Terceira tarefa 
 
