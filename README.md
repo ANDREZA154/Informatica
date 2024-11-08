@@ -74,8 +74,6 @@ Dashboard referente ao KPI sobre o total de itens vendidos
 ![image](https://github.com/user-attachments/assets/6bd1182a-2e0f-4c05-b98c-9c9475683f9f)
 
 https://app.powerbi.com/links/5IBsvCvx_1?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
-https://app.powerbi.com/links/DToy08IDI7?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
-
 
 ## Sétima tarefa: Power Bi DAX da planilha de dados abertos 
 
