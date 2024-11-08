@@ -81,6 +81,6 @@ https://app.powerbi.com/links/DToy08IDI7?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 Criar 3 metas e fazer DAX, KPI do Dashboard
 
-![image](https://github.com/user-attachments/assets/5a3f86ec-0917-4b7f-a2f0-614a55206efd)
+![image](https://github.com/user-attachments/assets/61eea611-f092-4f1b-a1dd-af80d01914b0)
 
-https://app.powerbi.com/links/DToy08IDI7?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+https://app.powerbi.com/links/CA0ucqGwn-?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
