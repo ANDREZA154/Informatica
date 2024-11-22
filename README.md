@@ -85,4 +85,7 @@ https://app.powerbi.com/links/CA0ucqGwn-?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 ## Oitava tarefa: Power APPs e IA generativo
 
+![image](https://github.com/user-attachments/assets/07aad50b-c05b-4a8f-9eea-472c99a5b8fe)
+
+
 
