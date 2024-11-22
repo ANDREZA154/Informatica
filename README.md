@@ -87,7 +87,11 @@ https://app.powerbi.com/links/CA0ucqGwn-?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 Um aplicativo de viagem, com informações sobre restaurante e atividades
 
+https://apps.powerapps.com/play/e/2647685c-8bff-eba0-b66c-8bb7679d4fe8/a/9c7f7840-1a17-49c1-991a-75e20ffb8141?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=sharebutton&sourcetime=1732315106850#
+
 ![image](https://github.com/user-attachments/assets/07aad50b-c05b-4a8f-9eea-472c99a5b8fe)
+
+
 
 
 
