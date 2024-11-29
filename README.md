@@ -91,7 +91,9 @@ https://apps.powerapps.com/play/e/2647685c-8bff-eba0-b66c-8bb7679d4fe8/a/9c7f784
 
 ![image](https://github.com/user-attachments/assets/07aad50b-c05b-4a8f-9eea-472c99a5b8fe)
 
+## Prova: Power BI
+![image](https://github.com/user-attachments/assets/6c6170da-c909-46f3-ad35-d1544feb0b41)
 
-
+https://app.powerbi.com/groups/me/reports/2f5e27ff-a8de-4640-8b93-03e631bcf061/ReportSection?experience=power-bi
 
 
